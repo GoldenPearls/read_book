@@ -11,13 +11,6 @@
 - 한 단원 다 읽으면 주말에 블로그에 정리하면서 한 번 더 Reminder
 
 ### 개발자 온보딩 가이드
-.center {
-  display: block;
-  margin: auto;
-}
-
-![title](/img/myImg.png){: width="500" height="400"){: .center}
-
 <center><image src ="https://github.com/GoldenPearls/read_book/assets/97003348/2f2b5ad0-fb43-432c-8a9e-c6376ed2997a" width="500" height="400"></center>
   
 | 내용  | 정리한 글 블로그 가기                                                                 |
