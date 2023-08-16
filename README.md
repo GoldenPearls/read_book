@@ -20,3 +20,4 @@
 |1장| 여정을 시작하며, 개발자로서 첫 출발 앞으로 어떤 길이 펼쳐질까? | [📓 책 정리 내용 궁금해? 바로가기 ](https://velog.io/@prettylee620/%ED%95%84%EB%8F%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-1%EC%9E%A5) |
 |2장|역량을 높이는 의식적 노력 - 경쟁자가 갖춘 개발자가 되기 위해 스스로 해야 할 일 | [📓 책 정리 내용 궁금해? 바로가기](https://velog.io/@prettylee620/%ED%95%84%EB%8F%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-2%EC%9E%A5)
 |3장|코드와 함께 춤을 - 레거시 코드에 임하는 자세 | [📓 책 정리 내용 궁금해? 바로가기](https://velog.io/@prettylee620/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-3%EC%9E%A5)
+|4장 -(1)|운영 환경을 고려한 코드 작성 - 개발 환경과 프로덕션 환경은 엄연히 다르다.| [📓 책 정리 내용 궁금해? 바로가기](https://velog.io/@prettylee620/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-4%EC%9E%A5-1)
