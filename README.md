@@ -45,7 +45,7 @@
 ### 🍇 요즘 개발자
 > 정적 타입의 언어들과 동적 타입의 언어들의 차이점과 타입 검사의 중요성에 대해 다루고 있는 책
 
-<center><image src ="https://github.com/GoldenPearls/read_book/assets/97003348/d1ac1ddc-10cc-47f9-ad22-d1aa9daf2e73" width="500" height="400"></center>
+<center><image src ="https://github.com/GoldenPearls/read_book/blob/main/image/MZdeveloper.png" width="500" height="400"></center>
   
 |내용  | 정리한 글 블로그 가기                                                                 |
 |:---: | -------------------------------------------------------------------- |
